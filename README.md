@@ -57,4 +57,4 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado(a) por [Dados e Inteligênc
 
 ### 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Dudiesz/previsao-precos-soja-ml])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardolucen-alves/)
