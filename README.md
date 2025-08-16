@@ -13,11 +13,15 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado(a) por [Dados e Inteligênc
 - 💬 Pergunte-me sobre **Python, MongoDB, PostgreSQL, Power BI, Excel e outras coisas**.
 - 📫 Como me contatar: **linkedin.com/in/eduardolucen-alves/**.
 
+---
+
 ### 📈 Minhas Estatísticas no GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudiesz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dudiesz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 🛠️ Conhecimentos e Ferramentas
 
@@ -41,11 +45,15 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado(a) por [Dados e Inteligênc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+---
+
 ### 💡 Projetos em Destaque
 
 - **Modelo de Regressão Linear para previsão de preços diários da soja no Brasil (Paraná)**: Este projeto tem como objetivo principal desenvolver um modelo de Machine Learning (Regressão Linear) para prever o preço diário da soja no Brasil, utilizando dados históricos reais. A aplicação de conceitos de Ciência de Dados e Machine Learning visa fornecer insights sobre o comportamento dos preços de uma commodity fundamental para o agronegócio brasileiro.
   
   - Link: [previsao-precos-soja-ml](https://github.com/Dudiesz/previsao-precos-soja-ml)
+
+---
 
 ### 🔗 Conecte-se comigo
 
