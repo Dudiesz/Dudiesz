@@ -1,4 +1,4 @@
-# Olá, me chamo Eduardo, se entrar fecha a porta! 👋
+# Olá, me chamo Eduardo 👋
 
 ### Analista de Dados / Inteligência Artificial
 
