@@ -13,7 +13,7 @@ Sou um entusiasta de dados em transição para a Ciência de Dados e Engenharia 
 * Uso constante de **DAX** e **Storytelling** para suporte à tomada de decisão executiva.
 
 ## 🎓 Formação & Pesquisa
-* **Bacharelado em Inteligência Artificial** | Faculdade SENAI Fatesg (Conclusão em 2027)
+* **Tecnólogo em Inteligência Artificial** | Faculdade SENAI Fatesg (Conclusão em 2027)
 * **Pesquisador de IA Generativa**: Atualmente desenvolvendo pesquisa em **Fine-tuning de LLMs** focado no domínio jurídico brasileiro.
 * **Certificação AWS**: Em processo de certificação Cloud Practitioner (Curso Oficial AWS).
 
