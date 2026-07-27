@@ -22,8 +22,8 @@
 
 Sou Analista de Dados focado no desenvolvimento de soluções **end-to-end**, conectando arquiteturas em nuvem a modelos preditivos de alto valor de negócio. Atuo na interseção entre **Análise de Dados, Inteligência Artificial e People Analytics**.
 
-* 🔭 **Atualmente:** Analista de Dados no **Grupo Saga**, construindo pipelines em **AWS Athena** e dashboards estratégicos em **Power BI** para **People Analytics**[cite: 1].
-* 🔬 **Pesquisa Acadêmica:** Pesquisador em IA na **Faculdade SENAI Fatesg**, focado em **Fine-tuning de LLMs** e raciocínio lógico formal[cite: 1].
+* 🔭 **Atualmente:** Analista de Dados no **Grupo Saga**, construindo pipelines em **AWS Athena** e dashboards estratégicos em **Power BI** para **People Analytics**.
+* 🔬 **Pesquisa Acadêmica:** Pesquisador em IA na **Faculdade SENAI Fatesg**, focado em **Fine-tuning de LLMs** e raciocínio lógico formal.
 * 🎯 **Objetivo:** Aplicar Machine Learning e Análise Preditiva para otimizar tomada de decisões organizacionais e gestão de talentos.
 
 ---
